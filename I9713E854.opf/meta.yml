@@ -1,0 +1,16 @@
+id: I9713E854
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:23:22.701779
+last_modified: 2023-02-08 16:23:22.701909
+source_metadata:
+  title: Mahāvyutpatti with sGra sbyor bam po gñis pa
+  language: bo
+bases:
+  A91A:
+    base_file: A91A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

@@ -1,0 +1,79 @@
+id: 1cd9c18b016447528c7a312daa7edd6d
+annotation_type: index
+revision: '00001'
+annotations:
+  c686285e706e4dbbb325d050ccd22beb:
+    base: A91A.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Preface
+      span:
+        start: 11
+        end: 4044
+    - title: §1-20
+      span:
+        start: 4045
+        end: 9577
+    - title: §21-40
+      span:
+        start: 9578
+        end: 14771
+    - title: §41-60
+      span:
+        start: 14772
+        end: 17906
+    - title: §61-80
+      span:
+        start: 17907
+        end: 21448
+    - title: §81-100
+      span:
+        start: 21449
+        end: 24220
+    - title: §101-120
+      span:
+        start: 24221
+        end: 29368
+    - title: §121-140
+      span:
+        start: 29369
+        end: 35231
+    - title: §141-160
+      span:
+        start: 35232
+        end: 38014
+    - title: §161-180
+      span:
+        start: 38015
+        end: 42997
+    - title: §181-200
+      span:
+        start: 42998
+        end: 53954
+    - title: §201-220
+      span:
+        start: 53955
+        end: 59575
+    - title: §221-240
+      span:
+        start: 59576
+        end: 71642
+    - title: §241-260
+      span:
+        start: 71643
+        end: 97371
+    - title: §261-280
+      span:
+        start: 97372
+        end: 107656
+    - title: §281-283
+      span:
+        start: 107657
+        end: 108712
+    - title: Colophon
+      span:
+        start: 108713
+        end: 108846
